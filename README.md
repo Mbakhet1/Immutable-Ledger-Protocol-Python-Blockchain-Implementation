@@ -17,7 +17,8 @@ Standard Operation: When the ledger is functioning normally, the system confirms
 
 Tampered State: Upon modifying a transaction, the cryptographic link is immediately severed. The system detects the hash mismatch and flags the ledger as "Invalid," as shown in the screenshot below.
 
-width="1045" height="778" alt="Screenshot 2026-05-13 100827" src="https://github.com/user-attachments/assets/8850ce97-bf89-4dfe-a59a-d11f05fb9961" />
+<img width="1045" height="778" alt="Screenshot 2026-05-13 100827" src="https://github.com/user-attachments/assets/c1ca3633-9c6b-4950-b73c-b7940ef2500a" />
+
 Figure 1: Demonstration of the system detecting a hash mismatch after data tampering.
 
 Technical Stack
@@ -44,10 +45,8 @@ Mohamed A. Bakhet
 Bachelor of Science in Business Analytics and Information Systems
 University of South Florida (USF)
 
-I am a data professional specializing in technical systems that prioritize data integrity and actionable business intelligence. My work focuses on bridging the gap between backend engineering and front-end analytics.  
-
 Location: Sarasota, FL
 
-LinkedIn: Mohamed Bakhet
+LinkedIn: https://www.linkedin.com/in/mohamed-bakhet-809288328/
 
 Email: mbakhet833@gmail.com<img 
